@@ -1,3 +1,4 @@
+# The code was created by Alişan Çelik
 import numpy as np
 import matplotlib.pyplot as plt
 from tensorflow.keras.models import Sequential, Model
@@ -88,3 +89,4 @@ for e in range(epochs):
             plt.axis('off')
         plt.tight_layout()
         plt.show()
+# The code was created by Alişan Çelik
